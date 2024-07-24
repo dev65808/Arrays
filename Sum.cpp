@@ -16,5 +16,5 @@ int main(){
         cin>>arr[i];
     }
     int ans=getSum(arr,size);
-    cout<<"Sum of the given elements: "<<ans;
+    cout<<"Sum of the given : "<<ans;
 }
